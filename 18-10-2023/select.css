@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: rgb(0,255,0);
+    border-style: solid; 
+   
+    }
+
+    h2{
+    background-color: rgb(249, 238, 238);
+    color:black;
+    
+    }
+    p{
+    color: black;
+    border-style: dashed;
+    
+    }
+    #Ace{
+        background-color: black;
+    }
+    .Luffy{
+        background-color: red;
+    }
+
+    h1, h2, .Luffy {
+        text-align: center;
+    }

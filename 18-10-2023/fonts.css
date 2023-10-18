@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: normal;
+}
+
+h2{
+    border-style: dotted;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-variant: small-caps;
+}
+
+p{
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: initial;
+}
+
+h1, h2, p {
+    text-align: center;
+}
